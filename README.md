@@ -1,2 +1,2 @@
-# toy-problems
+# coding-challenges
 Algorithm practice problems
